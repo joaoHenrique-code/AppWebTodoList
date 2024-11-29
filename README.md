@@ -1,2 +1,1 @@
-# AppWebTodoList
-Esse é um projeto de objetivo educacional.
+# Esse é um projeto de objetivo educacional.
