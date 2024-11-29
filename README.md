@@ -1,1 +1,1 @@
-# Esse é um projeto de objetivo educional.
+# Esse é um projeto de objetivo educacional.
